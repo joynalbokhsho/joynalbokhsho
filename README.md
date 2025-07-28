@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joynal Bokhsho
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%8E%93;Frontend+%26+Backend+Engineer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Real+Estate+Student+%F0%9F%8F%A2;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%8E%93;Frontend+%26+Backend+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Real+Estate+Student+%F0%9F%8F%A2;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
