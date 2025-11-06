@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Joynal Bokhsho
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%8E%93;Always+Learning+%F0%9F%93%9D;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🎓 About Me
 
-I'm a **Real Estate student** at Daffodil International University (DIU) and a passionate **full-stack developer** from Dhaka, Bangladesh. I love building innovative web applications and contributing to open source projects. When I'm not coding, you'll find me gaming (Valorant, Minecraft, CS2), watching anime, or exploring new technologies.
+I'm a **Real Estate student** at Daffodil International University (DIU) and a passionate **learner** from Dhaka, Bangladesh. I love learning new technologies, building web applications, and contributing to open source projects. When I'm not coding, you'll find me gaming (Valorant, Minecraft, CS2), watching anime, or exploring new technologies.
 
 ### Current Focus
 - 📚 Studying Real Estate at DIU
-- 💻 Building full-stack applications with React, Next.js, and Node.js
+- 💻 Learning web development with React, Next.js, and Node.js
 - 🌱 Contributing to open source projects
-- 🎯 Continuously learning and growing as a developer
+- 🎯 Continuously learning and growing
 
 ---
 
