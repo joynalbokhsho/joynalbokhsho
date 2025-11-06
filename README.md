@@ -41,46 +41,12 @@ I'm a **Real Estate student** at Daffodil International University (DIU) and a p
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 [DIU Result Lookup](https://github.com/joynalbokhsho/diu-result-lookup-react)
-A React-based web application designed for DIU students to easily look up their results with a student-friendly interface and responsive design.
-
-**Tech Stack:** React, JavaScript, CSS3  
-**Status:** ✅ Complete
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joynalbokhsho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joynalbokhsho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
-
----
-
-## 🎯 Goals for 2025
-
-- **Technical Skills:** Master TypeScript, explore AI/ML basics, learn cloud platforms (AWS), and advanced React patterns
-- **Projects:** Build 5+ web applications, contribute to open source, create a personal portfolio V2, and explore mobile development
-- **Career:** Seek internship opportunities, network with the tech community, attend tech conferences, and earn relevant certifications
-- **Personal:** Plan a trip to Japan, achieve gaming milestones, complete anime watchlist, and improve photography skills
-
-**Current Progress:**
-- ✅ Setup Development Environment
-- ✅ Learn React Fundamentals
-- 🔄 Master TypeScript (60% Complete)
-- 🔄 Build 5+ Projects (1/5 Complete)
-
----
-
-## 🎮 Interests
-
-Beyond coding, I'm passionate about:
-- **Gaming:** Competitive FPS (Valorant, CS2) and creative sandbox games (Minecraft)
-- **Anime & Manga:** Avid watcher and reader, with favorites including Demon Slayer and One Piece
-- **Learning:** Always exploring new technologies and staying updated with industry trends
 
 ---
 
