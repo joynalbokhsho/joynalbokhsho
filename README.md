@@ -71,5 +71,4 @@ I'm a **Real Estate student** at Daffodil International University (DIU) and a p
 
 <div align="center">
   <sub>💖 Made with love, lots of coffee, and a dash of anime magic ✨</sub><br>
-  <sub>Last updated: January 2025</sub>
 </div>
