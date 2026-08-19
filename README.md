@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Joynal Bokhsho
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%8E%93;Always+Learning+%F0%9F%93%9D;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
@@ -7,7 +6,6 @@
 ---
 
 ## 🎓 About Me
-
 I'm a **Real Estate student** at Daffodil International University (DIU) and a passionate **learner** from Dhaka, Bangladesh. I love learning new technologies, building web applications, and contributing to open source projects. When I'm not coding, you'll find me gaming (Valorant, Minecraft, CS2), watching anime, or exploring new technologies.
 
 ### Current Focus
@@ -19,7 +17,6 @@ I'm a **Real Estate student** at Daffodil International University (DIU) and a p
 ---
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -44,14 +41,29 @@ I'm a **Real Estate student** at Daffodil International University (DIU) and a p
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joynalbokhsho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joynalbokhsho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joynalbokhsho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joynalbokhsho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=joynalbokhsho&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joynalbokhsho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=joynalbokhsho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joynalbokhsho&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
 </div>
 
 ---
 
 ## 📫 Let's Connect!
-
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaownsilva@gmail.com)
@@ -68,7 +80,6 @@ I'm a **Real Estate student** at Daffodil International University (DIU) and a p
 - 📱 Social: @joynalbokhsho
 
 ---
-
 <div align="center">
   <sub>💖 Made with love, lots of coffee, and a dash of anime magic ✨</sub><br>
 </div>
